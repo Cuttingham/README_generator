@@ -66,7 +66,7 @@ const questions = [
 function askQuestions(){
     inquirer.prompt (questions)
     .then(function (answers){
-        fs.writeFile("test1.md",createReadMe(answers),(err) =>{
+        fs.writeFile("generatedREADME.md",createReadMe(answers),(err) =>{
             if(err){
                 console.log("Something has gone horribly wrong! Please start again!");
             }
