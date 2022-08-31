@@ -10,7 +10,7 @@ SO THAT I can quickly create a professional README for a new project
 ![demo of app](app_Demo.gif)
 
 ## Install and Usage
-Simply clone my code into a repo on your local system and it will work by entering<br>"node script.js" into your command line in VScode. Requires inquirer.
+Simply clone my code into a repo on your local system and it will work by entering<br>"node index.js" into your command line in VScode. Requires inquirer.
 
 ## Github
 Repo: https://github.com/Cuttingham/README_generator
