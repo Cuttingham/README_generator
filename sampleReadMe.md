@@ -33,5 +33,5 @@ This is how you test it
   
   
 ## Additional Info:
-- Github: [This is my user name](https://github.com/This is my user name)
-- Email: this is my email 
+- Github: [This is my user name](https://github.com/This_is_my_user_name)
+- Email: thisismyemail@gmail.com
